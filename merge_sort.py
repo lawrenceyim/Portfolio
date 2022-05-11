@@ -43,6 +43,7 @@ def merge_sort(list):
     return c
 
 
+# Testing the merge sort algorithm
 a = [1, 5, 2, -6, -3, 2, 1, 6, 62, 117, 721, 4902, 1, 61, 0, -161]
 print(a)
 a = merge_sort(a)
